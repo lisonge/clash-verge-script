@@ -1,0 +1,16 @@
+{
+  "name": "clash-verge-script",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/node": "22.5.5",
+    "typescript": "5.6.2",
+    "vite": "5.4.5"
+  },
+  "volta": {
+    "node": "20.17.0",
+    "pnpm": "9.10.0"
+  }
+}
